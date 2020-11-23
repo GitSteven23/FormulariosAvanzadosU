@@ -1,0 +1,27 @@
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion88.exe.config
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion88.exe
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion88.pdb
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csprojResolveAssemblyReference.cache
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.Form1.resources
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.Properties.Resources.resources
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csproj.GenerateResource.Cache
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.exe
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.pdb
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion88.exe.config
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion88.exe
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion88.pdb
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion1.exe
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\bin\Debug\Aplicacion1.pdb
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csprojResolveAssemblyReference.cache
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.Form1.resources
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.Properties.Resources.resources
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csproj.GenerateResource.Cache
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.exe
+C:\Users\ESTACION\Documents\Visual Studio 2015\Projects\Fusion 88\Formulario Avanzado 88\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.pdb
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csprojAssemblyReference.cache
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.Form1.resources
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.Properties.Resources.resources
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csproj.GenerateResource.cache
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.exe
+C:\Users\Cristian Ovalle\source\repos\FormulariosAvanzadosU\Aplicacion88\Aplicacion88\obj\Debug\Aplicacion88.pdb
